@@ -34,6 +34,8 @@ pod koniec przyszłego roku będzie do dyspozycji system operacyjny z konsolą t
  + prywatny marketplace - z własnymi aplikacjami texttosoftware
  + repozytoria wolnego - otwartego oprogramowania 
 
-Wersja SaaS platformy da również dostęp wizualny do (polo)shell-a przez stronę www (podobnie jak webREPL) - [klient shellUI](http://www.shellui.com)
+Wersja SaaS platformy umożliwia dostęp do (polo)shell-a przez stronę www (podobnie jak webREPL) - [klient shellUI](http://www.shellui.com)
+
+Zapraszamy do współpracy, poszkujemy chętnych do testowania jedynego na świecie systemu operacyjnego opartego o AI, który generuje aplikacje w czasie rzeczywistym
 
 ## [kontakt - Tom Sapletta, Architekt platformy TextToSoftware](https://www.linkedin.com/in/tom-sapletta-com)
