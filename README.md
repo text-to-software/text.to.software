@@ -29,10 +29,11 @@ pod koniec przyszłego roku będzie do dyspozycji system operacyjny z konsolą t
 
 ### Platforma text to software:
 
-+ system operacyjny - [pologOS](http://www.pologos.com)
-+ multi-powłoka shell - [poloSHELL](http://www.poloshell.com) daje dostęp do:
++ [system operacyjny pologOS](http://www.pologos.com)
++ multi-powłoka shell-a - [serwer poloSHELL](http://www.poloshell.com) daje dostęp do:
  + prywatny marketplace - z własnymi aplikacjami texttosoftware
  + repozytoria wolnego - otwartego oprogramowania 
-+ wizualny dostęp do shell-a przez stronę www, podobnie jak webREPL - [shellUI](http://www.shellui.com)
+
+Wersja SaaS platformy da również dostęp wizualny do (polo)shell-a przez stronę www (podobnie jak webREPL) - [klient shellUI](http://www.shellui.com)
 
 ## [kontakt - Tom Sapletta, Architekt platformy TextToSoftware](https://www.linkedin.com/in/tom-sapletta-com)
