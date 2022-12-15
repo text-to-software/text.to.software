@@ -38,4 +38,6 @@ Wersja SaaS platformy umożliwia dostęp do (polo)shell-a przez stronę www (pod
 
 Zapraszamy do współpracy, poszkujemy chętnych do testowania jedynego na świecie systemu operacyjnego opartego o AI, który generuje aplikacje w czasie rzeczywistym
 
-## [kontakt - Tom Sapletta, Architekt platformy TextToSoftware](https://www.linkedin.com/in/tom-sapletta-com)
+## kontakt:
+
++ [Tom Sapletta, Architekt platformy TextToSoftware](https://www.linkedin.com/in/tom-sapletta-com)
