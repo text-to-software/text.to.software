@@ -1,5 +1,6 @@
 # Text To Software - http://text.to.software
 
+![text.to.software](text.to.software.png)
 
 Our ecosystem:
 
