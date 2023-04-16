@@ -10,6 +10,7 @@ Our ecosystem:
 + [speech.to.software - voice to software with any asystant](https://speech.to.software/)
 
 Dialogware provides a set of formal operators for specializing a description of a general-purpose environment; as operators are applied, the system semi-automatically builds a set of transformation rules used to translate application-specific programs into those of the original general-purpose environment. The output of the tool is an application-specific environment together with a program transformer that provides execution semantics for programs written in that environment.
+[A transformational approach to generating application-specific environments](https://dl.acm.org/doi/epdf/10.1145/142868.142917)
 
 
 ## EN
