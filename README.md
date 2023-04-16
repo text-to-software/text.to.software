@@ -46,7 +46,8 @@ Zapraszamy do współpracy, poszkujemy chętnych do testowania jedynego na świe
 ## Research
 
 + [All: text to software : Search](https://dl.acm.org/action/doSearch?AllField=text+to+software&expand=all&ConceptID=119584&startPage=0&sortBy=EpubDate_desc)
-
++ [All: application generator : Search](https://dl.acm.org/action/doSearch?AllField=application+generator&ConceptID=119584&expand=all)
++ 
 
 ## Keywords
 + text to service
@@ -54,8 +55,8 @@ Zapraszamy do współpracy, poszkujemy chętnych do testowania jedynego na świe
 + software generator
 + software generation
 + application generator
-+ A transformational approach to generating application-specific environments - [A transformational approach to generating application-specific environments | Proceedings of the fifth ACM SIGSOFT symposium on Software development environments](https://dl.acm.org/doi/10.1145/142868.142917)
-
++ [A transformational approach to generating application-specific environments - Proceedings of the fifth ACM SIGSOFT symposium on Software development environments](https://dl.acm.org/doi/10.1145/142868.142917)
++ [A pattern-based application generator for building simulation - Proceedings of the 6th European SOFTWARE ENGINEERING conference held jointly with the 5th ACM SIGSOFT international symposium on Foundations of software engineering](https://dl.acm.org/doi/10.1145/267895.267927)
 
 
 
