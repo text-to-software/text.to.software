@@ -9,6 +9,8 @@ Our ecosystem:
 + [srs.to.software - Software Requirements Specification to Software](https://srs.to.software/)
 + [speech.to.software - voice to software with any asystant](https://speech.to.software/)
 
+Dialogware provides a set of formal operators for specializing a description of a general-purpose environment; as operators are applied, the system semi-automatically builds a set of transformation rules used to translate application-specific programs into those of the original general-purpose environment. The output of the tool is an application-specific environment together with a program transformer that provides execution semantics for programs written in that environment.
+
 
 ## EN
 
@@ -39,6 +41,32 @@ Wersja SaaS platformy umożliwia dostęp do (polo)shell-a przez stronę www (pod
 
 Zapraszamy do współpracy, poszkujemy chętnych do testowania jedynego na świecie systemu operacyjnego opartego o AI, który generuje aplikacje w czasie rzeczywistym
 
+
+## Research
+
++ [All: text to software : Search](https://dl.acm.org/action/doSearch?AllField=text+to+software&expand=all&ConceptID=119584&startPage=0&sortBy=EpubDate_desc)
+
+
+## Keywords
++ text to service
++ text to software
++ software generator
++ software generation
++ application generator
++ A transformational approach to generating application-specific environments - [A transformational approach to generating application-specific environments | Proceedings of the fifth ACM SIGSOFT symposium on Software development environments](https://dl.acm.org/doi/10.1145/142868.142917)
+
+
+
+
+
+
+
 ## kontakt:
 
 + [Tom Sapletta, Architekt platformy TextToSoftware](https://www.linkedin.com/in/tom-sapletta-com)
+
+
+---
+
++ [edit](https://github.com/text-to-software/text.to.software/edit/main/README.md)
+
