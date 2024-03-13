@@ -1,19 +1,126 @@
-# Text To Software - http://text.to.software
-
 ![text.to.software](text.to.software.png)
 
-Our ecosystem:
+
+# Software-Centric Solutions - [Text To Software](http://text.to.software)
+
+
+    Software: Services Driven Approach
+
+
+## Menu
+
++ [Human-Centric Solutions - WETWARE.DEV: DigitalTwin](http://www.wetware.dev)
++ [Modular-Centric Solutions - MODWARE.ORG: Dialogware, textware.org](https://www.modware.org)
++ [Agent-Centric Solutions - TeleOperator.org: agent services Gaiann.com, Edi.Chat, do.camera, sub.actor](http://www.TeleOperator.org)
++ [Interface-Centric Solutions - INTERFACE audio, video, text: VoCo.Cam](http://leadership.run/INTERFACE)
++ [Service-Centric Solutions - SaaSisKing.com - Software Requirements](http://www.SaaSisKing.com)
++ [Software-Centric Solutions - text.to.software - Modular Software](http://text.to.software)
++ [Infrastructure-Centric Solutions - ModDevOps.com: Operations, Domains, DNS, CDN, Dynapsys](http://www.ModDevOps.com)
++ [Security-Centric Solutions - CyberPolygon.org: Incidents Detection, Prevention, Monitoring](http://www.cyberpolygon.org)
+
++ [SDLC: softreck.dev](http://leadership.run/SDLC)
+
+  
+## Our ecosystem:
 
 + [click.to.software - no code, low code solutions](https://click.to.software/)
 + [dsl.to.software - DSL to Software convertion](https://dsl.to.software/)
 + [srs.to.software - Software Requirements Specification to Software](https://srs.to.software/)
 + [speech.to.software - voice to software with any asystant](https://speech.to.software/)
 
+
 Dialogware provides a set of formal operators for specializing a description of a general-purpose environment; as operators are applied, the system semi-automatically builds a set of transformation rules used to translate application-specific programs into those of the original general-purpose environment. The output of the tool is an application-specific environment together with a program transformer that provides execution semantics for programs written in that environment.
 [A transformational approach to generating application-specific environments](https://dl.acm.org/doi/epdf/10.1145/142868.142917)
 
 
+
+  
+
+
+
+## Software
+
+
+Software Centric Solutions
+Software = Infra + Sourcecode
+Sourcecode Centric Solutions
+Development: Sourcode Driven Approach
+
++ blog: platformengineer.net - DevOps, NetOps  News
++ development department: softreck.dev - CTO - technical side of project
+
+
+
+## Development
+
++ standardization
++ operations
++ cycles
+
+
+### Development centric
+
++ Community
++ libraries
++ interfaces
++ API communication
++ SDK integration
+
+  
+### Community
+Software Integration.
+
++ DSL - Domain-Specific language.
+  
++ apifoundation.com - open source community      
+
+
+### Functions, libraries
+
++ apiSQL
++ dslFunc
+
+
+### Service Market/Provider  [one day run](http://www.onedayrun.com)
+
+Development. Text To Service
+
++ blog: onepersonsaas.com - One Person SaaS - Automate Yourself
++ SaaS: saasisking.com - SaaS is King - Unattended Sales      
+  + oneday.run 
+    + dialogware.com - dialog ware - Text To Software
+      + dialogSync.com - dialog sync -  
+        + webstream.com - web stream - Application Streaming  
+          + jloads 
+
+
+
+### Software Distribution
+
+for many sofwtare marketplaces for WHMCS, TrueChart, Docker, ...
+
+
+
+### Digital Twin Generator - [Twinizer](http://www.twinizer.com)
+
+Based on hitorical connection and Data 
++ App, env Definition - apiMacro.com
++ Data Multi Format Specification - ndof.org 
++ Module Definition - MetaModule.org
+
+
+
+
+
+
+
+---
+
+
+
 ## EN
+
+
 
 Requirements are typically written in natural language. 
 
