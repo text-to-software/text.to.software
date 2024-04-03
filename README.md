@@ -45,8 +45,7 @@ graph TD;
     C --> |Compose| D(NLP)
     D --> |Query| E(Chat UI)
     E --> |Messages| F[Customer]
-
-    classDef default fill:#f9f,stroke:#333,stroke-width:4px;
+    
     classDef special fill:#bbf,stroke:#f66,stroke-width:2px,stroke-dasharray: 5, 5;
     class A,B,C,D,E,F default;
 ```
