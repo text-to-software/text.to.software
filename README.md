@@ -57,8 +57,9 @@ One strategy to effectively sell something is by transitioning from concept to e
 Let's break down this pathway and how it can be utilized to sell something to a user:
 
 
-### 1. Research
+### 1. Reqirements
 
+We are starting from Idea to define the requirements we need to make a research.
 Selling something to a user requires a multi-layered approach that encompasses solid back-end development, clear and accessible presentation of your product's benefits, interactive and intelligent user engagement, and a compelling user interface. 
 By moving effectively from Source Code to DSL, then applying NLP for natural interactions, and finally presenting through an intuitive UI, you can demonstrate the value of your offering in a way that resonates with users, thereby increasing your chances of successful sales.
 
