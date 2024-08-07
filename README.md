@@ -32,6 +32,18 @@
 Dialogware provides a set of formal operators for specializing a description of a general-purpose environment; as operators are applied, the system semi-automatically builds a set of transformation rules used to translate application-specific programs into those of the original general-purpose environment. The output of the tool is an application-specific environment together with a program transformer that provides execution semantics for programs written in that environment.
 [A transformational approach to generating application-specific environments](https://dl.acm.org/doi/epdf/10.1145/142868.142917)
 
+- dialog**stream** - komunikacja ze wszystkimi aktorami i maszynami w celu zebrania wymaga i postepow i uruchomienia na serwerze w czasie rzeczywistym
+   - zapisuje dane do dialogstory, dialogchain
+- dialog**story** - opisy funkcji napisane z perspektywy użytkownika końcowego.
+  - zbieranie wymaga klienta
+- dialog**plan** - plan wykonania projektu, uwzgledniajcy milestones, deadlines, estimates, priority
+  - bazuje na dialogstory
+- dialog**path** - scenariusze wykonania projektu w zaleznosci od osoby i implementacji
+  - bazuje na dialogplan i dialogstory 
+- dialo**graph** - graficzna reprezentacja roznych scenariuszy, mermaid roadmap
+  - bazuje na dialogplan i dialogpath 
+- dialog**chain** - lancuch transakcji wykorzystania zasobow przez aktorow, np. rozliczenie godzin pracy, kontraktow, oprogramowania, pracy ludzi i maszyn.
+  - bazuje na wszystkim elementach, zapisuje wszystkie zdarzenia w organizacji i transakcje  
 
 
   
